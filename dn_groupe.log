@@ -1,0 +1,158 @@
+# extended LDIF
+#
+# LDAPv3
+# base <ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr> with scope subtree
+# filter: (objectclass=*)
+# requesting: LLL memberof 
+#
+
+# etudiants, personnes, iutbeziers.fr
+dn: ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# alejaeg, etudiants, personnes, iutbeziers.fr
+dn: uid=alejaeg,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# syllair, etudiants, personnes, iutbeziers.fr
+dn: uid=syllair,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# arnranza, etudiants, personnes, iutbeziers.fr
+dn: uid=arnranza,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# khaathie, etudiants, personnes, iutbeziers.fr
+dn: uid=khaathie,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# nicsicre, etudiants, personnes, iutbeziers.fr
+dn: uid=nicsicre,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# oligomez, etudiants, personnes, iutbeziers.fr
+dn: uid=oligomez,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# anamatrah, etudiants, personnes, iutbeziers.fr
+dn: uid=anamatrah,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# antmignon, etudiants, personnes, iutbeziers.fr
+dn: uid=antmignon,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# bassauvan, etudiants, personnes, iutbeziers.fr
+dn: uid=bassauvan,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# chendiaye, etudiants, personnes, iutbeziers.fr
+dn: uid=chendiaye,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# dimannaix, etudiants, personnes, iutbeziers.fr
+dn: uid=dimannaix,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# erigodard, etudiants, personnes, iutbeziers.fr
+dn: uid=erigodard,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# etidruart, etudiants, personnes, iutbeziers.fr
+dn: uid=etidruart,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# gregrevin, etudiants, personnes, iutbeziers.fr
+dn: uid=gregrevin,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# khandiaye, etudiants, personnes, iutbeziers.fr
+dn: uid=khandiaye,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# renchmura, etudiants, personnes, iutbeziers.fr
+dn: uid=renchmura,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# samkorchi, etudiants, personnes, iutbeziers.fr
+dn: uid=samkorchi,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# seblozano, etudiants, personnes, iutbeziers.fr
+dn: uid=seblozano,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# valhebert, etudiants, personnes, iutbeziers.fr
+dn: uid=valhebert,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# zakdaoudi, etudiants, personnes, iutbeziers.fr
+dn: uid=zakdaoudi,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# aouandhume, etudiants, personnes, iutbeziers.fr
+dn: uid=aouandhume,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# bencabanes, etudiants, personnes, iutbeziers.fr
+dn: uid=bencabanes,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# chembengue, etudiants, personnes, iutbeziers.fr
+dn: uid=chembengue,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# guiroubaud, etudiants, personnes, iutbeziers.fr
+dn: uid=guiroubaud,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# ludtanneur, etudiants, personnes, iutbeziers.fr
+dn: uid=ludtanneur,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# marorsucci, etudiants, personnes, iutbeziers.fr
+dn: uid=marorsucci,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# ndethioune, etudiants, personnes, iutbeziers.fr
+dn: uid=ndethioune,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# ndithioune, etudiants, personnes, iutbeziers.fr
+dn: uid=ndithioune,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# ogandzamba, etudiants, personnes, iutbeziers.fr
+dn: uid=ogandzamba,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# walelmaazi, etudiants, personnes, iutbeziers.fr
+dn: uid=walelmaazi,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# alebouthino, etudiants, personnes, iutbeziers.fr
+dn: uid=alebouthino,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# aurpartonna, etudiants, personnes, iutbeziers.fr
+dn: uid=aurpartonna,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# benjacquemo, etudiants, personnes, iutbeziers.fr
+dn: uid=benjacquemo,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# frerogandji, etudiants, personnes, iutbeziers.fr
+dn: uid=frerogandji,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# gaulannette, etudiants, personnes, iutbeziers.fr
+dn: uid=gaulannette,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# guilivernau, etudiants, personnes, iutbeziers.fr
+dn: uid=guilivernau,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# julgaillard, etudiants, personnes, iutbeziers.fr
+dn: uid=julgaillard,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# matbonnafou, etudiants, personnes, iutbeziers.fr
+dn: uid=matbonnafou,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# matvilleneu, etudiants, personnes, iutbeziers.fr
+dn: uid=matvilleneu,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# maxpouvreau, etudiants, personnes, iutbeziers.fr
+dn: uid=maxpouvreau,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# natponcelet, etudiants, personnes, iutbeziers.fr
+dn: uid=natponcelet,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# rubmargueri, etudiants, personnes, iutbeziers.fr
+dn: uid=rubmargueri,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# samaubertin, etudiants, personnes, iutbeziers.fr
+dn: uid=samaubertin,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# thigargaros, etudiants, personnes, iutbeziers.fr
+dn: uid=thigargaros,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# thomanfredi, etudiants, personnes, iutbeziers.fr
+dn: uid=thomanfredi,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# vicpezieres, etudiants, personnes, iutbeziers.fr
+dn: uid=vicpezieres,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# wisrahmouni, etudiants, personnes, iutbeziers.fr
+dn: uid=wisrahmouni,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+# search result
+search: 2
+result: 0 Success
+
+# numResponses: 49
+# numEntries: 48
